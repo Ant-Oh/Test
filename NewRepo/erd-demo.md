@@ -10,6 +10,5 @@ erDiagram
         string title
     }
     AUTHOR ||--o{ BOOK : writes
-erDiagram
-    AUTHOR ||--o{ BOOK : writes
+
 ```
